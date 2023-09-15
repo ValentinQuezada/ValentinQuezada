@@ -4,9 +4,8 @@
 ![](https://c.tenor.com/ZFaI0p9F8BAAAAAC/hello-chat-hello-peter.gif)
 
 ## Sobre mí
-:sparkles: Tengo 18 años.
 
-:date: Mi cumpleaños es el 14 de febrero.
+:date: Mi cumpleaños es el 14 de febrero. Nací en el año 2003.
 
 :round_pushpin: Vivo en Lima, Perú, pero nací en Carolina del Norte, EEUU.
 
