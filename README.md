@@ -1,11 +1,9 @@
 # ¡Hola! :wave: Soy Valentín Quezada :smile:
-### :computer: Estudiante de Ciencias de la Computación en UTEC
-
-![](https://c.tenor.com/ZFaI0p9F8BAAAAAC/hello-chat-hello-peter.gif)
+### :computer: Bachiller de Ciencias de la Computación en UTEC, Lima, Perú.
 
 ## Sobre mí
 
-:date: Mi cumpleaños es el 14 de febrero. Nací en el año 2003.
+:date: Nací el 14 de febrero del 2003.
 
 :round_pushpin: Vivo en Lima, Perú, pero nací en Carolina del Norte, EEUU.
 
@@ -17,7 +15,7 @@
 - Escuchar y descubrir nueva música en Spotify.
 - Jugar videojuegos con mis amigos y diseñar mis propios mundos y mapas.
 - Salir a caminar y de vez en cuando correr por mi distrito.
-- Programar y aprender más sobre porgramación.
+- Programar y aprender más sobre programación.
 
 ## Contactos
 - **Gmail:** valentinquez64@gmail.com
